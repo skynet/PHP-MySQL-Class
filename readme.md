@@ -1,12 +1,3 @@
-Important Notice
-===============
-
-As of December 2014 I decided to upload the PHP MySQL Class I wrote a while back, and now use on a daily basis. It's PDO based (the `mysql_*` functions were due to be deprecated quite a while back now!).
-
-The old version is still a part of this repo for now, and the readme is still available [here](class.MySQL.README.md).
-
-
-
 PHP MySQL Class
 ===============
 
